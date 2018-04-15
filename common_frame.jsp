@@ -11,9 +11,7 @@
   }*/
 
 %>
-
 <%
-
 
 
 
@@ -35,7 +33,7 @@
         <link rel="shortcut icon" href="http://localhost:8081/CMS/img/rudrasoftech_favicon.png" type="image/x-icon">
         <meta name="csrf-param" content="_csrf">
     <meta name="csrf-token" content="TVMxNURoTUUdBl54LDd6LQ48CUcAPy82fhdWdzAxPiYfKUcGMSo8Jw==">
-        <title>FAC3PAGE</title>
+        <title>BUMpy</title>
           <link href="css/bootstrap.css" rel="stylesheet">
 
 <link href="css/fullcalendar.print.css" rel="stylesheet" media="print">
@@ -151,7 +149,7 @@ onfocus="this.value='';"></li>
             <!-- Menu Footer-->
             <li class="user-footer">
                 <div class="pull-left">
-		    <a class="btn btn-default btn-flat" href="changePassword" style="font-size:12px">Change Password</a>                </div>
+		    <a class="btn btn-default btn-flat" href="resetPassword.html" style="font-size:12px">Change Password</a>                </div>
                 <div class="pull-right">
                     <a class="btn btn-default btn-flat" href="logout.jsp" style="font-size:12px">Sign out</a>                </div>
             </li>
